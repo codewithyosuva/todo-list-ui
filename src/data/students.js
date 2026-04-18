@@ -14,11 +14,16 @@ const students = [
         studentName: "sri",
         age: 23,
     },
-     {
+    {
         id: 4,
         studentName: "vijay",
         age: 23,
-    }
+    },
+    {
+        id: 5,
+        studentName: "ajith",
+        age: 23,
+    },
 ]
 
 export default students
